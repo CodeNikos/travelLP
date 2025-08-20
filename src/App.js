@@ -229,9 +229,9 @@ function App() {
               </div>
               <p>Haciendo realidad tus sueños de viaje desde 2020</p>
               <div className="social-links">
-                <a href="#"><FaFacebook /></a>
-                <a href="#"><FaInstagram /></a>
-                <a href="#"><FaTwitter /></a>
+                <a href="https://www.facebook.com/"><FaFacebook /></a>
+                <a href="https://www.instagram.com/"><FaInstagram /></a>
+                <a href="https://x.com/"><FaTwitter /></a>
               </div>
             </div>
             

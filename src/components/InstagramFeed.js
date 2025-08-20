@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { FaInstagram, FaHeart, FaComment, FaMapMarkerAlt } from 'react-icons/fa';
-import axios from 'axios';
+
 
 const InstagramFeed = () => {
   const [instagramPosts, setInstagramPosts] = useState([]);
